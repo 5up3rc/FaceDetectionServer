@@ -36,7 +36,7 @@ goserver:
 .PHONY: goserver
 
 clean:
-	rm -f /lib64/libfaced_facedet_lib.so
+	rm -f /lib64/libseeta_facedet_lib.so
 	rm -f /lib64/libfaced.so
 	rm -f libfaced/faced
 	rm -f libfaced/libfaced.so
